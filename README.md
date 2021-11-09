@@ -25,4 +25,4 @@ With the use of this AOS attribute, you can control the timing function which sp
 This attribute gives you control over the position in which the animation starts. By default, AOS sets the start position as soon as its top part reaches the bottom part of the window. The possible values to use for this attribute are top-bottom, top-center, top-top, center-bottom, center-center.
 Animations in the AOS library by default are always replayed each time it's scrolled into view or out of view. With this attribute, you can set the value to false in other to animate the element only once.
 Another alternative is to set your preferred values needed globally for all the elements you want to animate. This can be done by passing them as an object to the init() .
-With the updated changes, our landing page’s animations will only start animating when we scroll into the view of the section.
+With the updated changes, our landing page’s animations will only start animating when we scroll into the view of the section.(from the: https://michalsnik.github.io/aos/)
