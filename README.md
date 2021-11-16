@@ -1,5 +1,5 @@
 # CloudHostnig
-
+#Start From Here...
 NimCloud is a Cloud Hosting Website, You Can Deploy Your Website Less Then 60 Seconds With Just $9 Per Month.
 This Website Is Created withe HTML(HyperText Markup Language), And CSS(Cascading Style Sheet) And JavaScript To Build Dynamic Website And Better Experience. It’s Full Responsive  And It Look’s Clean And Good On Any Type Of Standard Device. Importantly Is Easy To Use And The Ui Design Is Stand’s For Natural User Interface. At The Top Of The Website We Can See Navigation Bar And Logo, Nav Bar Is Created Whit Flex Box . And After That We Have Hero Section, All The  Section In Website Have Same Layout, A Grid Layout With One Row And 2 Columns. I Add All The Components In Separate  Folder For Easy To Use For Everyone. I Use Objcet Oriented Css Second Principle, This Rule Allow Us Separate Structure From Skin To Write Less And Cleaner Code In Css.
 Gave Us A Better Access For Each Different Element And Less Code, DRY Or Don’t Repeat Yourself.
@@ -25,3 +25,4 @@ This attribute gives you control over the position in which the animation starts
 Animations in the AOS library by default are always replayed each time it's scrolled into view or out of view. With this attribute, you can set the value to false in other to animate the element only once.
 Another alternative is to set your preferred values needed globally for all the elements you want to animate. This can be done by passing them as an object to the init() .
 With the updated changes, our landing page’s animations will only start animating when we scroll into the view of the section.(from the: https://michalsnik.github.io/aos/)
+
